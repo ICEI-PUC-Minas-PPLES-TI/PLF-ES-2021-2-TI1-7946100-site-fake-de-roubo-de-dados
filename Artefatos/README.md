@@ -1,16 +1,18 @@
 # Artefatos do projeto
 
-Este diretório mantém os artefatos do projeto. 
+Este diretório está destinado aos artefatos usados na construção do projeto. 
 
+* `/Design Thinking`
+	* **[Dashboard - Miro](https://miro.com/welcomeonboard/aXR1SU14eng3dlkyU3dFQVRrR1BVdDljdWhqWEpJaW00MjV3VFF1b1RsRklZNjVxUkdDYVJDRDJpOHRGNlhWR3wzMDc0NDU3MzYzNzMzNTQ1NDY0?invite_link_id=533961334020)**: Foi utilizada a plataforma Miro para os diagramas criados durante as etapas de concepção das personas, entrevistas qualitativas, histórias de usuários, requisitos funcionais e não funcionais, além das restrições e planos futuros do projeto.
 
-Liste os artefatos produzidos, com suas localizações e descrição do conteúdo.
+>
+* `/Apresentação de slides`
+	* **[slides.pdf](TIAW.pdf)**: Slides para a apresentação do dia 30/09.
 
-Por exemplo, pode-se criar um diretório "atas", que seria descrito da seguinte forma:
-* `/atas`
-	* **Ata_xx_ago_2020.docx**: Ata de reunião do dia xx de agosto de 2020.
+>
 
-Pode-se também criar um diretório "canvas", que seria descrito da seguinte forma:
-* `/canvas`
-	* **BusinessModelCanvas.pdf**: Canvas do modelo de negócios.
+>
+* `/PDF do Wireframe`
+	* **[wireframe.pdf](Tiaw.pdf)**: Wireframes formados durante a fase de concepção da interface.
 
-Assim, sucessivamente para outros artefatos como `processos` e `DER`, etc.
+>

@@ -1,34 +1,27 @@
 # Especificações Do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+A concepção final da idéia do problema e os principais pontos a serem tratados neste projeto foi firmada a partir de nosso trabalho interativo de imersão, feita por todos do grupo, utilizando a platarforma [Miro](../Artefatos/README.md) equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+Guilherme Silva tem 22 anos, é Repositor num mercadinho local. Pensa em
+fazer faculdade de Engenharia de Software e poder um dia trabalhar de casa,
+pois adora jogar, ver animes e assistir o seu futebol nas quartas e é solteiro.
 
+* Estilo de vida: Caseiro.
+* Hábitos de compra: Jogos, filmes, compras online, aplicativos.
+* Quais mídias prefere: Internet.
+* Quem os influencia: Artistas, influenciadores digitais, líderes políticos.
+* Quais tecnologias usam: Computador, celular.
+* Critérios de decisão na hora da compra: Preço.
 
-> Enumere e detalhe as personas da sua solução. Para
-> tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-> Lembre-se que você deve ser enumerar e descrever precisamente e
-> personalizada todos os clientes ideais que sua solução almeja.
+Maria Aparecida, 46 Anos, Técnico de Segurança do Trabalho. Católica, acredita em esforço pessoal, estudo, trabalho, família e amigos. Gosta de ver series e filmes, beber com amigos.
+* Estilo de vida: Caseira.
+* Hábitos de compra: Roupas, acessórios, sapatos, compras online, aplicativos.
+* Quais mídias prefere: Internet e televisão.
+* Quem os influencia: Artistas, filósofos, influenciadores digitais, líderes religiosos.
+* Quais tecnologias usam: Computador, celular.
+* Critérios de decisão na hora da compra: Preço.
 
 ## Histórias de Usuários
 
@@ -36,19 +29,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+|Guilherme Silva  | Saber das noticias sobre segurança           | Me atentar as teclonogias que utilizo               |
+|Guilherme Silva      | Saber o que estou usando e se uso da maneira certa                 | Não vire estatística dos casos de golpe on-line |
+|Guilherme Silva      | Conhecer melhor os hackers                 | Dismitifcar a idéia de existência dos "Hackers do Bem" |
+|Maria Aparecida      | Conhecer melhor os aplicativos que uso                 | Possa saber se é seguro e confiável |
+|Maria Aparecida      | Saber se posso criar uma conta PIX sem riscos | Para facilitar as transações do dia-a-dia sem medo |
+|Maria Aparecida      | Enviar notícias importantes sobre golpe online aos meus netos                | Para que eles fiquem sabendo que devem se proteger na rede |
 
 ## Requisitos
 
@@ -58,34 +44,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF01| O site deve apresentar tópicos relevantes, "sobre nós" e seções de outras páginas na inicial | ALTA | 
+|RF02| O site deve possibilitar a navegação entre as páginas a partir de um menu superior   | ALTA |
+|RF03| Exibir os tópicos relevantes (Módulos) da página inicial em modais   | MÉDIA |
+|RF04| O site deve possuir uma paǵina destinada a conceituação e distinção dos tipos de Hackers (pessoa importante do problema)   | MÉDIA |
+|RF05| O site deve possuir uma página de artigos sobre crimes digitais que permite ao usuário visualizar o texto completo da notícia/artigo com todos os detalhes da publicação | MÉDIA |
+|RF06| O site deve permitir buscar por algum artigo ou notícia na seção de "crimes digitais"   | MÉDIA |
+|RF07| O site deve permitir visualizar as informações de contatos dos criadores do site   | BAIXA |
+|RF08| O site deve permitir o compartilhamento de notícias e artigos visualizadas em plataformas de redes sociais   | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais
->   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais
->   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF01| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
+|RNF02| O site deve ser publicado em um ambiente acessível publicamente na Internet (conceito open-source, publicado no GitHub) |  ALTA |
+|RNF03| A mudança entre páginas deve ser feita em no máximo 1s |  ALTA | 
+|RNF04| O site deve ser compatível com os principais navegadores do mercado |  ALTA | 
+|RNF05| O site deve apresentar conformidade visual, entre nível de brilho adequado e equilíbrio nos elementos de constrate | MÉDIA | 
 
 ## Restrições
 
@@ -95,11 +72,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|03| Nenhum item do desenvolvimento pode ser terceirizado  |
+|04| Todos os integrantes do grupo devem contribuir        |

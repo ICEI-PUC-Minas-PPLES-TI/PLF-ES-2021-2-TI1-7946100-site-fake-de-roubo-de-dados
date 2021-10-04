@@ -1,61 +1,32 @@
 # Introdução
 
 ## Problema
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Vivemos na era digital, num mundo onde o encurtamento das distâncias, a agilidade nos processos e afazeres do cotidiano, se tornaram possíveis a partir de um único *click*. Isso quer dizer que estamos trocando informações relevantes o tempo todo, com tanta velocidade, que nem nos preocupamos com as rotas e destinos reais desses dados. 
+
+Com isso, podemos afimar que é imprescindível que o ativo mais importante na vida de pessoas e organizações, a informação, está o tempo todo em constante movimento. E quem não traz essa informação ao digital se torna atrasado, como aqueles que esperam horas na filas dos bancos, ou ainda fazem compras presencialmente nos supermercados.
+
+Neste cenário, tem-se observado um aumento gradativo dos ataques r golpes pelos *Hackers* aos usuários da rede. Em sua maioria através de Engenharia Social e por meio de Site fakes. No qual roubam dados, desde informações pessoais, como CPF, RG, até dados bancários e dinheiro de verdade nas contas virtuais.
+
+Diante disso, torna-se fundamental que existam canais de informação e mecanismos que permitam ao usuário acessar um conteúdo objetivo e de fácil entendimento sobre as tecnologias que mais utilizam atualmente e em como se proteger ao utilizá-las, podendo assim nos desfrutar de algo que soluciona as nossas vidas, sem trazer riscos a integridade pessoal.
 
 ## Objetivos
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo deste trabalho é criar um portal informativo que apresente explicações de fácil entendimento sobre as tecnologias mais utilizadas atualmente (seja de comunicação, compras, controle financeiro..) voltadas ao esclarecimento de dúvidas face a segurança dos dados, apresentando meios de se prevenir de ataques e golpes ao utilizá-las, além de um estudo dedicado aos criminosos por trás deste problema atual.
+
+Como objetivos específicos, podemos ressaltar:
+
+* Fornecer uma integração com as mais novas notícias relacionadas ao mundo digital e a segurança da informação;
+* Promover o compartilhamento e divulgação, a partir das redes sociais, para atentamento dos usuáros em comum, dos itens supracitados;
+* Fomentar e enaltecer o estudo da área, possibilitando a geração de novos entusiastas e futuros profissionais.
 
 ## Justificativa
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A partir da redação feita pela Globo.com, o Phishing, ou golpe utilizando sites fakes para *"pesca"* de dados, se enquandram em quase 90% dos casos de roubo na internet. Muito porque muitos nem sabem que esse tipo de golpe existe, outros porque não sabem se prevenir ou até mesmo identificar.
+
+Juntamente a isso, há uma falta de canais de notícias e informacionais destinados a segurança da informação, que aborda o tema de forma simples e intuitiva. Sem muitos detalhamentos técnicos e com foco em soluções para se prevernir dos golpes mais recorrentes, alé de conehcê-los.
 
 ## Público-Alvo
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
+Por se tratar de uma págiana pública, sem necessidade de login. No qual todos podem se beneficiar de soluções isentas de custo para se informarem, o foco deste trabalho está no público que tem tem dúvidas, medo e gostaria de saber mais sobre as tecnologias atuais que utilizam rotineiramente, disponibilizadas pela Internet, com o intuito de desmestificar e promover a segurança coletiva dos dados.
+
+Desta forma, estabeleceu-se como público-alvo desta solução, os homens e as mulheres entre 18 e 45 anos que se estão em constante atualização na rede e que fazem uso frequente de computadores e dispositivos móveis para se atualizarem, trocarem informações, realizar compras, realizar transações financeiras, entre outras, tudo pela internet.
