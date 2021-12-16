@@ -16,3 +16,8 @@ Este diretório está destinado aos artefatos usados na construção do projeto.
 	* **[wireframe.pdf](Tiaw.pdf)**: Wireframes formados durante a fase de concepção da interface.
 
 >
+>
+* `/Apresentação de slides - Final`
+	* **[slides-final.pdf](TIAW-final.pdf)**: Slides para a apresentação do dia 16/12.
+
+>
