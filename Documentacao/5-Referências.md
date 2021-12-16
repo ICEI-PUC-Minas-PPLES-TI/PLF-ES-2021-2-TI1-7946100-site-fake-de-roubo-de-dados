@@ -1,7 +1,0 @@
-# Referências
-
-* CanalTech, O que é um hacker. Disponível em: ([https://canaltech.com.br/hacker/O-que-e-um-Hacker/](https://canaltech.com.br/hacker/O-que-e-um-Hacker/)). Acesso em: 20 SET 2021
-* Malwarebytes, Tudo sobre phishing. Disponível em: ([https://br.malwarebytes.com/phishing/](https://br.malwarebytes.com/phishing/)). Acesso em: Acesso em: 20 SET 2021
-* Techtudo, Os dez tipos de phishing mais comuns. Disponível em: ([https://www.techtudo.com.br/listas/2018/06/os-dez-tipos-de-phishing-mais-comuns.ghtml](https://www.techtudo.com.br/listas/2018/06/os-dez-tipos-de-phishing-mais-comuns.ghtml)). Acesso em: 17 SET 2021
-* Techtudo, Phishing: conheça o golpe que causa 90% dos roubos na internet. Disponível em: ([https://www.techtudo.com.br/noticias/2019/07/phishing-conheca-o-golpe-que-causa-90percent-dos-roubos-na-internet.ghtml](https://www.techtudo.com.br/noticias/2019/07/phishing-conheca-o-golpe-que-causa-90percent-dos-roubos-na-internet.ghtml)). Acesso em: 17 SET 2021
-* HOJE EM DIA, Anúncios ‘fake’ permitem roubo de dados e até dinheiro. Disponível em: ([https://www.hojeemdia.com.br/primeiro-plano/an%C3%BAncios-fake-permitem-roubo-de-dados-e-at%C3%A9-dinheiro-1.830522](https://www.hojeemdia.com.br/primeiro-plano/an%C3%BAncios-fake-permitem-roubo-de-dados-e-at%C3%A9-dinheiro-1.830522)). Acesso em: Acesso em: 17 SET 2021
