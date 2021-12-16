@@ -18,21 +18,21 @@ Neste processo, foram sendo criadas as issues a partir de nossos repositórios p
 
 Para cada issue criada no GitHub, registramos-a no quadro Kanban que colocamos no Miro, no qual dividimos em 5 colunas, estas são:
 
-Backlog
-Em Andamento
-Testes
-Concluído
-Publicado
+`Backlog`
+`Em Andamento`
+`Testes`
+`Concluído`
+`Publicado`
 
-Backlog: a issue está parada, aguardando seus requisitos serem detalhados ou alguém ter a disponibilidade de pegá-lo.
+- Backlog: a issue está parada, aguardando seus requisitos serem detalhados ou alguém ter a disponibilidade de pegá-lo.
 
-Em Andamento: a issue está sendo desenvolvida em uma branch exclusiva, a qual será mergida na master no final do projeto.
+- Em Andamento: a issue está sendo desenvolvida em uma branch exclusiva, a qual será mergida na master no final do projeto.
 
-Testes: a issue já esta com todos os requisitos mínimos para ser entregue, agora alguém precisa pegar ela para testar, garantindo que não há bugs e que ela supra todos os requisitos para sua entrega.
+- Testes: a issue já esta com todos os requisitos mínimos para ser entregue, agora alguém precisa pegar ela para testar, garantindo que não há bugs e que ela supra todos os requisitos para sua entrega.
 
-Concluído: a issue está aguardando o desenvolvedor realizar o merge da master na branch dele a fim de solucionar todos os conflitos e assegurá-la a branch master, quanto a alterações que podem ter sido feitas por outras tarefas.
+- Concluído: a issue está aguardando o desenvolvedor realizar o merge da master na branch dele a fim de solucionar todos os conflitos e assegurá-la a branch master, quanto a alterações que podem ter sido feitas por outras tarefas.
 
-Publicado: significa que a issue passou por todas as outras etapas com sucesso e finalmente foi incluida na branch master.
+- Publicado: significa que a issue passou por todas as outras etapas com sucesso e finalmente foi incluida na branch master.
 
 ## Hospedagem
 
