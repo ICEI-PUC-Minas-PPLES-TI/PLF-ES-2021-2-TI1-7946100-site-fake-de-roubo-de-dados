@@ -1,0 +1,1 @@
+localStorage.setItem('users', JSON.stringify([{ email: 'admin@admin.com', password: 'admin' }]));

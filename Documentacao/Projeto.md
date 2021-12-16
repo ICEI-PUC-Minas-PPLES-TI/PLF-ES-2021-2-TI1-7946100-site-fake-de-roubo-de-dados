@@ -1,7 +1,7 @@
 # Informações do Projeto
 `Portal da Segurança Digital`  
 
-`Trabalho Interdisciplinar - Aplicacões Web`
+Trabalho Interdisciplinar - Aplicacões Web
 
 `Engenharia de Software`
 
@@ -23,6 +23,8 @@ Os membros do grupo são:
 2. [Especificações do Projeto](2-Especificação.md)
 3. [Artefatos do Design Thinking](../Artefatos/README.md)
 4. [Projeto da Interface](3-Interface.md)
-5. [Gerenciamento de Projeto](4-Gerenciamento-Projeto.md)
-6. [Referências](5-Referências.md)
-7. [Apresentação](6-Apresentação.md)
+5. [Gestão de configuração](4-Gestão-Configuração.md)
+6. [Gerenciamento de Projeto](5-Gerenciamento-Projeto.md)
+7. [Implementação](6-Implementação.md)
+8. [Referências](7-Referências.md)
+9. [Apresentação](8-Apresentação.md)
