@@ -1,0 +1,33 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Portal da Segurança Digital
+authors:
+  - family-names: Avelar Moriya Sathler
+    given-names: André 
+  - family-names: Araújo Mendonça 
+    given-names: Arthur  
+  - family-names: Pais de Almeida Lucio  
+    given-names: Julio Cesar 
+  - family-names: de Almeida Santos
+    given-names: Lucas Henrique 
+  - family-names: Rievrs Oliveira 
+    given-names: Paulo 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Assis Valentim
+    given-names: Nathalia   
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves Nogueira
+    given-names: Simone  
+keywords:
+  - Portal Informativo
+  - Segurança Digital
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/PLF-ES-2021-2-TI1-7946100-site-fake-de-roubo-de-dados
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2021-12-22
