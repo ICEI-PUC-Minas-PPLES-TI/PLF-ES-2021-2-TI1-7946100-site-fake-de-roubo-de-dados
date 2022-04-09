@@ -15,3 +15,4 @@ Portal informativo sobre segurança digital.
 
 * Rommel Vieira Carneiro
 * Simone Alves Nogueira
+* Nathália Assis Valentim
